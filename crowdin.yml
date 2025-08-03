@@ -1,7 +1,13 @@
+preserve_hierarchy: true   # keep folder layout
+commit_message: "chore: new translations from Crowdin"
+
+languages_mapping: &map
+  two_letters_code:
+    pt-BR: pt_BR   # special filenames
+    pt-PT: pt_PT
+
 files:
-  - source: /l10n/intl_en.arb          # <- matches your repo
+  # ARB source
+  - source: /l10n/intl_en.arb
     translation: /l10n/intl_%two_letters_code%.arb
-    languages_mapping:
-      two_letters_code:
-        pt-BR: pt_BR
-        pt-PT: pt_PT
+    languages_mapping: *map   # applies the BR / PT mapping
