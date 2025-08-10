@@ -57,7 +57,7 @@
   "afterSalahHadith": "Allahumme rabbe hazihid-da’vetit-tammeti vessalatil-kaimeti ati muhammedenil-vessilete velfadilete veb-ashu mekamen mahmudenil-lezi ve’at tehu.\n\n(Moj Allahu, Gospodaru ovog potpunog poziva i namaza koji se upravo uspostavlja podari Muhammedu, (sallallahu alejhi ve sellem), Vesilet i svako dobro i proživi ga na pohvalnom mjestu koje si mu obećao.)",
   "alIqama": "Ikamet",
   "alAdhan": "Ezan",
-  "turnOfPhones": "Molimo vas, utišajte ili isključite svoje telefone!",
+  "turnOfPhones": "Molimo vas da svoje telefone prebacite u NEČUJNI način rada",
   "iqamaIn": "Ikamet za",
   "alAthkar": "Dhikr",
   "azkarList0": "Estagfirullah, Estagfirullah, Estagfirullah. \n\nAllahumme entes-selamu ve minkes-selam, tebarekte ja zel-dželali vel-ikram!\n\n''Gospodaru naš, Ti si izvor spasa i od Tebe je spas. Uzvišen si Ti, o Gospodaru veličine i plemenitosti''\n(Muslim, Ebu Davud, Tirmizi, Nesa’i, Ibn Madže, Taberani, Darimi)",
@@ -176,7 +176,7 @@
   "@duaaElEftarText": {
     "description": "اللهم اني لگ صمت وعلى رزقك افطرت واليك انبت وعليگ توكلت ذهب الظما وابتلت العروق وثبت الاجر انشاء الله"
   },
-  "secondaryScreenExplanation": "Za sekundarnu prostoriju (ženska prostorija za namaz ili neki drugi sprat), ovaj ekran će prikazati Džumu-namaz uživo",
+  "secondaryScreenExplanation": "Za sekundarnu prostoriju za namaz (ženska prostorija ili neki drugi sprat), ovaj ekran će prikazati Džumu-namaz uživo",
   "mainScreenExplanation": "Za glavnu prostoriju džamije, ovaj ekran neće prikazivati ​​direktan prijenos Džume namaza",
   "normalModeExplanation": "Prikazaće normalan ekran sa vremenima namaza i najavama(obavještenja).",
   "announcementOnlyModeExplanation": "Stalno će prikazivati ​​obavještenja",
