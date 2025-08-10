@@ -1,6 +1,6 @@
 {
   "home": "Startpagina",
-  "share": "Deel",
+  "share": "Delen",
   "about": "Informatie",
   "rate": "Beoordeel ons",
   "languages": "Leren",
@@ -225,7 +225,7 @@
   "useDeviceTime": "Apparaattijd gebruiken",
   "selectTime": "Selecteer tijd",
   "previous": "named@@0",
-  "appTimezone": "App Timezone",
+  "appTimezone": "Tijdzone van de app",
   "descTimezone": "Selecteer je tijdzone om nauwkeurige gebedstijden te krijgen.",
   "appWifi": "Verbinden met wifi",
   "descWifi": "Maak verbinding met je gewenste wifi",
